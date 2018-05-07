@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FlamantRose</string>
+    <string name="message_bienvenue">Bonjour ! Bienvenue sur notre application. Nous essayons de créer un organisateur pour les étudiants. Nous espérons y arriver et que cela va vous plaire. Maëlle et Tasnim !</string>
+    <string name="point_msg">Point : 0</string>
+
+</resources>
