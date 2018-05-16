@@ -14,7 +14,7 @@ Notre premier objectif est de créer le calendrier modifiable, ensuite le "bloc 
 ## Composition de l'équipe
 
 * membre 1 : Tasnim KAZI TANI responsable du calendrier le 07/05
-* membre 2 : Maëlle BRUGNON responsable du bouton clic le 07/05
+* membre 2 : Maëlle BRUGNON responsable du bouton clic le 07/05 et de la TO DO LIST le 16/05 
 
 
 
