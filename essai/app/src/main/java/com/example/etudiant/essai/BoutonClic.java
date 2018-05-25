@@ -10,7 +10,7 @@ public class BoutonClic extends AppCompatActivity {
 
     private TextView points;
     private ImageView bouton;
-    private clicks = 0;     /** permet de mettre le compteur à 0 */
+    private int clicks = 0;     /** permet de mettre le compteur à 0 */
 
 
     @Override

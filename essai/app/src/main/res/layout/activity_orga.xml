@@ -21,12 +21,12 @@
     <Button
         android:layout_width="169dp"
         android:layout_height="98dp"
-        android:layout_marginEnd="196dp"
-        android:layout_marginRight="196dp"
+        android:layout_marginEnd="120dp"
+        android:layout_marginRight="120dp"
         android:text="Cliquer sur les flamants rose pour commencer "
         android:textColor="#FE9900"
         app:layout_constraintEnd_toEndOf="parent"
-        tools:layout_editor_absoluteY="108dp" />
+        tools:layout_editor_absoluteY="264dp" />
 
     <android.support.v7.widget.AppCompatImageView
         android:id="@+id/play"

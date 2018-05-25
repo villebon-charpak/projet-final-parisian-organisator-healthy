@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
     private static final String TAG = "MainActivity";
-...
+
 public class list extends AppCompatActivity {
 
     @Override
